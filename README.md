@@ -73,14 +73,17 @@
 
 <script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module"></script>
 <dotlottie-player src="https://lottie.host/fee3e2df-f852-4d26-9ece-703c3270aec4/vdUKbGQ2Ly.lottie" background="transparent" speed="1" style="width: 300px; height: 300px" loop autoplay></dotlottie-player>
+
 ###
 
-## 🚀 Welcome to My GitHub Profile!
+## 📚 Education  
+🎓 Currently pursuing a **Bachelor's in Web & Mobile Application Engineering**  
+🏫 At **EST Salé**, Morocco 🇲🇦  
 
-### 💡 Passion & Interests
+## 💡 Passion & Interests  
 🛠️ Full-stack Development  
 🖥️ IT Infrastructure & Cloud Technologies  
 
-### 🎯 Goals
+## 🎯 Goals  
 ✅ Contribute to meaningful **open-source** projects  
 🌱 Grow as a **Software Engineer** through continuous learning  
