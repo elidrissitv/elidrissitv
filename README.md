@@ -73,7 +73,7 @@
 <div align="center">
   <img src="https://github.com/elidrissitv/elidrissitv/blob/main/ann.gif" width="550" height="550"/>
 </div>
-###
+
 
 ## 💡 Passion & Interests  
 🛠️ Full-stack Development  
