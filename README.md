@@ -70,7 +70,7 @@
 ###
 
 <br clear="both">
-  <img src="https://github.com/elidrissitv/elidrissitv/blob/main/ann.gif" width="550" height="550" style="text-align: center/>
+  <img src="https://github.com/elidrissitv/elidrissitv/blob/main/ann.gif" width="550" height="550" />
 
 ###
 
