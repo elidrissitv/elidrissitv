@@ -70,13 +70,9 @@
 ###
 
 <br clear="both">
-<img src="[https://your-image-host.com/your-animation.gif](https://github.com/elidrissitv/elidrissitv/blob/main/ann.gif)" width="300"/>
+<img src="https://github.com/elidrissitv/elidrissitv/blob/main/ann.gif" width="300"/>
 
 ###
-
-## 📚 Education  
-🎓 Currently pursuing a **Bachelor's in Web & Mobile Application Engineering**  
-🏫 At **EST Salé**, Morocco 🇲🇦  
 
 ## 💡 Passion & Interests  
 🛠️ Full-stack Development  
