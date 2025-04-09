@@ -70,9 +70,7 @@
 ###
 
 <br clear="both">
-
-<script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module"></script>
-<dotlottie-player src="https://lottie.host/fee3e2df-f852-4d26-9ece-703c3270aec4/vdUKbGQ2Ly.lottie" background="transparent" speed="1" style="width: 300px; height: 300px" loop autoplay></dotlottie-player>
+<img src="[https://your-image-host.com/your-animation.gif](https://github.com/elidrissitv/elidrissitv/blob/main/ann.gif)" width="300"/>
 
 ###
 
