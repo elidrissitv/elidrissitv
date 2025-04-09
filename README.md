@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://lh4.googleusercontent.com/oNktD1Zoe-UT_gFfQiCpU7D3QEENG3AiyF_ZS4A_AmoXGvSCwD7YAYw_eP19sgHmL3plGUgJQN_h6T1VEI6YwbSBJ6Vhn7zfB2a5XLMJfFl3BMHPXIU9IU-65P0Uouayxg=w1280"  />
-
-###
-
 <br clear="both">
 
 <div align="center">
@@ -78,3 +74,13 @@
 <img src="https://raw.githubusercontent.com/elidrissitv/elidrissitv/output/snake.svg" alt="Snake animation" />
 
 ###
+
+## 🚀 Welcome to My GitHub Profile!
+
+### 💡 Passion & Interests
+🛠️ Full-stack Development  
+🖥️ IT Infrastructure & Cloud Technologies  
+
+### 🎯 Goals
+✅ Contribute to meaningful **open-source** projects  
+🌱 Grow as a **Software Engineer** through continuous learning  
