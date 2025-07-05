@@ -1,5 +1,6 @@
 <h2 align="center">Hi 👋! My name is Yasyn, and I'm a passionate full-stack development enthusiast from Morocco 🇲🇦.</h2>
-
+<div align="center>
+  <img src="https://github.com/elidrissitv/elidrissitv/blob/main/ann.gif"/></div>
 ###
 
 <div align="center">
