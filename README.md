@@ -18,7 +18,7 @@
 
 <br clear="both">
 
-<div align="center" width="12">
+<div align="center" width="10">
   <img src="https://cdn.simpleicons.org/anaconda/44A833" height="60" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="60" alt="apachecassandra logo"  />
