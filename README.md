@@ -20,57 +20,57 @@
 
 <div align="center" width="10">
   <img src="https://cdn.simpleicons.org/anaconda/44A833" height="60" alt="anaconda logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="60" alt="apachecassandra logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="60" alt="apachemaven logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="60" alt="c logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="60" alt="centos logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="60" alt="canva logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="60" alt="debian logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="60" alt="docker logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/django/092E20" height="60" alt="django logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/eclipseide/2C2255" height="60" alt="eclipseide logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/flask/000000" height="60" alt="flask logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="60" alt="git logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/gradle/02303A" height="60" alt="gradle logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/grafana/F46800" height="60" alt="grafana logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="60" alt="heroku logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/intellijidea/000000" height="60" alt="intellijidea logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="60" alt="jira logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="60" alt="kaggle logo"  />
