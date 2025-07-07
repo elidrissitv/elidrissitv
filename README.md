@@ -1,5 +1,6 @@
-<h2 align="center">Hi 👋! My name is Yasyn, and I'm a passionate full-stack development enthusiast from Morocco 🇲🇦.</h2>
-###
+# 👋 Hello, I'm Yasyn El-Idrissi
+<h1 align="center">Full-Stack Developer | Web & Mobile Engineer | DevOps Enthusiast</h1>
+<h2 align="center">I'm a passionate full-stack developer with strong experience in building web and mobile applications using modern frameworks and cloud-native technologies. I love turning ideas into scalable and performant software, with a particular interest in microservices architecture, AI integration, and user-centric design.</h2>
 
 <div align="center">
   <div align="center>
