@@ -1,6 +1,5 @@
-# 👋 Hello, I'm Yasyn El-Idrissi
-<h1 align="center">Full-Stack Developer | Web & Mobile Engineer | DevOps Enthusiast</h1>
-<h2 align="center">I'm a passionate full-stack developer with strong experience in building web and mobile applications using modern frameworks and cloud-native technologies. I love turning ideas into scalable and performant software, with a particular interest in microservices architecture, AI integration, and user-centric design.</h2>
+<h1 align="center">Full-Stack Developer | Web & Mobile Engineer | DevOps </h1>
+<h2 align="center">Full-stack developer with strong experience in building web and mobile applications using modern frameworks and cloud-native technologies. I love turning ideas into scalable and performant software, with a particular interest in microservices architecture, AI integration, and user-centric design.</h2>
 
 <div align="center">
   <div align="center>
@@ -144,20 +143,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" alt="visualstudio logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="60" alt="xcode logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="mailto:itsmenulled@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/elidrissitv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://www.facebook.com/people/Yasyn-El-idrissi/pfbid02kaE5ocqAZ3C7rYcjWiLm8MzVeoG2BWDpw5nx8DJFHrDKZNABB14XrMfXjW7aXMWjl/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
-  </a>
 </div>
 
 ###
