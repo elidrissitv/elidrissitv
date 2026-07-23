@@ -146,44 +146,6 @@
 ###
 
 <br clear="both">
-<div align="center">
-  <img src="https://github.com/elidrissitv/elidrissitv/blob/main/ann.gif" width="550" height="550"/>
-</div>
-
-## 🚀 Projects
-
-Here are some of the most impactful projects I’ve built:
-
-- 🛠️ [FixitByAI]
-Android app that uses AI to help users repair electronic and mechanical devices
-Android Studio • Java • AI
-
-- 🏋️ FitBuddy
-Web platform for fitness tracking, challenges, and leaderboards
-React.js • Node.js • MongoDB
-
-- 📚 CoursManager
-Android app for managing educational modules
-Android Studio • SQLite • Java
-
-- 🌍 SocialSafari
-A Flutter mobile app for discovering travel spots through community reviews
-Flutter • Firebase
-
-- 🎮 TicTacToe Online
-Online multiplayer game with real-time interaction
-React.js • Node.js • WebSockets
-
-- 💊 Medical Inventory System (Desktop)
-Pharmacy inventory and billing system
-C# • SQL Server • DevExpress • GunaUI
-
-—
-
-## 🎨 UI/UX Design
-
-I also create clean and functional UI/UX designs using:
-- Figma, Adobe Photoshop, Illustrator
 
 ## 💡 Passion & Interests  
 🛠️ Full-stack Development  
